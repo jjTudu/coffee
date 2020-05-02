@@ -1,8 +1,8 @@
 key,place_name,admin_name1,latitude,longitude,accuracy
 IN/110001,Connaught Place,New Delhi,28.6333,77.2167,4
 IN/110002,Darya Ganj,New Delhi,28.6333,77.25,4
-IN/110003,Aliganj,New Delhi,28.65,77.2167,
-IN/110004,Rashtrapati Bhawan,New Delhi,28.65,77.2167,
+IN/110003,Aliganj,New Delhi,28.575964,77.223188,
+IN/110004,Rashtrapati Bhawan,New Delhi,28.614299,77.199458,
 IN/110005,Lower Camp Anand Parbat,New Delhi,28.65,77.2,
 IN/110006,Bara Tooti,New Delhi,28.65,77.2167,
 IN/110007,Birla Lines,New Delhi,28.6833,77.2,
@@ -54,7 +54,7 @@ IN/110054,Civil Lines,New Delhi,28.6167,77.2167,
 IN/110055,Paharganj,New Delhi,28.6167,77.2167,4
 IN/110056,Shakurbasti,New Delhi,28.6167,77.2167,
 IN/110057,Munirka,New Delhi,28.6167,77.2167,
-IN/110058,Janakpuri,New Delhi,28.6167,77.2167,
+IN/110058,Janakpuri,New Delhi,28.62267,77.087631,
 IN/110059,Uttam Nagar,New Delhi,28.6167,77.2167,
 IN/110060,New Rajinder Nagar,New Delhi,28.6488,77.1726,
 IN/110061,Bijwasan,New Delhi,28.6488,77.1726,
@@ -77,3 +77,4 @@ IN/110091,Himmatpuri,New Delhi,28.6488,77.1726,
 IN/110092,Shakarpur,New Delhi,28.6488,77.1726,
 IN/110093,Nand Nagri A Block,New Delhi,28.6488,77.1726,
 IN/110094,Gokulpuri,New Delhi,28.6488,77.1726,
+IN/110096,Bhajan Pura,New Delhi,28.6488,77.1726,
